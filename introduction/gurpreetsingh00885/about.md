@@ -1,11 +1,11 @@
 # Introduction
 
-I am Gurpreet Singh.
+I am Anmol Goyal.
 
 
 # Hobbies
   - Programming
-  - Playing video games
-  - Watching movies
+  - Playing cricket
+  - lastening to music
 
-## My favourite smile is :wink:
+## My favourite smile is :rofl:
